@@ -1,0 +1,4 @@
+    Python là 1 ngôn ngữ lập trình đơn giản dễ học,có cú pháp rất đơn giản không phức tạp như java c và c++
+    Python miễn phí và có 1 cộng đồng người,cải tiến không ngừng để đưa ra những cải tiến mới
+    Khi chạy code Python, nó sẽ tự động chuyển đổi code sang ngôn ngữ máy tính có thể hiểu
+    Python là 1 ngôn ngữ hướng đến người dùng và không cần bất kì chương trình nào để dịch mã
